@@ -7,6 +7,8 @@ nav:
   - Stages:
     - Overview: stages\index.md
     - Code Base Docs: stages\code_base_docs.md
+  - Jenkins:
+    - Overview: jenkins\index.md
 
 theme: cinder
 
