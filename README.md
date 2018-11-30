@@ -1,5 +1,7 @@
 # Windows CI/CD Systems
 
+![build status](https://travis-ci.org/SashaNullptr/WindowsCICD.svg?branch=master)
+
 ## What is this Guide?
 
 An overview of how to set up a CI/CD System for Windows systems.
