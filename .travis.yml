@@ -7,7 +7,7 @@ branches: master # Set the branch to build from
 install:
     - pip install mkdocs mkdocs-cinder # Install the required dependencies
 
-before_deploy:
+script:
     - mkdocs build --verbose --clean --strict # Build a local version of the docs
 
 deploy: # Deploy documentation to Github in the gh_pages branch
