@@ -3,10 +3,10 @@ site_name: Windows CI/CD Systems
 nav:
   - Home: index.md
   - Environment:
-    - Package Manager: environment\package_manager.md
+    - Package Manager: environment/package_manager.md
   - Stages:
-    - Overview: stages\index.md
-    - Code Base Docs: stages\code_base_docs.md
-  - Jenkins: jenkins\index.md
+    - Overview: stages/index.md
+    - Code Base Docs: stages/code_base_docs.md
+  - Jenkins: jenkins/index.md
 
 theme: cinder
