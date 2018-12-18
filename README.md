@@ -1,6 +1,6 @@
 # Windows CI/CD Systems
 
-![build status](https://travis-ci.org/SashaNullptr/WindowsCICD.svg?branch=master)
+[![build status](https://travis-ci.org/SashaNullptr/WindowsCICD.svg?branch=master)](https://travis-ci.org/SashaNullptr/WindowsCICD)
 
 ## What is this Guide?
 
