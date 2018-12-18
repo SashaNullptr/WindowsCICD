@@ -10,9 +10,10 @@ nav:
     - Code Base Docs: stages/code_base_docs.md
   - Jenkins: jenkins/index.md
 
-social:
-  - type: 'github'
-  - link: 'https://github.com/SashaNullptr'
+extra:
+  social:
+    - type: 'github'
+    - link: 'https://github.com/SashaNullptr'
 
 repo_name: GitHub
 repo_url: https://github.com/SashaNullptr/WindowsCICD
