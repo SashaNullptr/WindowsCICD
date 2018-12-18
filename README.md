@@ -4,9 +4,21 @@
 
 ## What is this Guide?
 
-An overview of how to set up a CI/CD System for Windows systems.
+A (highly opinionated) overview of how to set up a CI/CD System for Windows systems.
 
-## Things You'll Need
+## Automatic Builds
+
+This project is automatically re-built each time a commit is made to master. The
+most recent passing build will update the GitHub Pages
+[site for this project](https://sashanullptr.github.io/WindowsCICD/).
+
+## Building Manually
+
+If you want to build this project by hand instead of viewing the
+[project site](https://sashanullptr.github.io/WindowsCICD/)
+(for some reason) here are the steps you'll need to take.
+
+### Things You'll Need
 
 * MkDocs
 * Cinder Theme for MkDocs
@@ -24,7 +36,7 @@ You may also need to add the `C:\Python37\Scripts` folder to the PATH in order f
 env:Path = "C:\Python37\Scripts";
 ```
 
-## Building the Docs
+### Building
 
 Simply run `mkdoc build` from the project route--this will build the project
 and place the results in a directory named `site`.
