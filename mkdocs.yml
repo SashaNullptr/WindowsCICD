@@ -1,4 +1,5 @@
 site_name: Windows CI/CD Systems
+theme: cinder
 
 nav:
   - Home: index.md
@@ -9,4 +10,9 @@ nav:
     - Code Base Docs: stages/code_base_docs.md
   - Jenkins: jenkins/index.md
 
-theme: cinder
+social:
+  - type: 'github'
+  - link: 'https://github.com/SashaNullptr'
+
+repo_name: GitHub
+repo_url: https://github.com/SashaNullptr/WindowsCICD
