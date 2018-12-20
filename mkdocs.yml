@@ -11,7 +11,7 @@ nav:
      - Overview: 'stages/index.md'
      - Code Base Docs: 'stages/code_base_docs.md'
   - Provisioning:
-     - Jenkins: 'jenkins/index.md'
+     - Jenkins: 'provisioning/jenkins.md'
 
 extra:
   social:
