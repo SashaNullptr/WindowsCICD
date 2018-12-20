@@ -5,7 +5,7 @@ python: 3.6.7 # Set the version of Python to use
 branches: master # Set the branch to build from
 
 install:
-    - pip install mkdocs mkdocs-cinder # Install the required dependencies
+    - pip install mkdocs mkdocs-material # Install the required dependencies
 
 script:
     - mkdocs build --verbose --clean --strict # Build a local version of the docs
