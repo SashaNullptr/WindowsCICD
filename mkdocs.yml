@@ -7,6 +7,8 @@ nav:
     - 'Package Manager': environment/package_manager.md
   - Virtualization:
      - Hyper-V: 'virtualization/hyper_v.md'
+  - Installers:
+     - InnoSetup: 'installers/innosetup.md'
   - Stages:
      - Overview: 'stages/index.md'
      - Code Base Docs: 'stages/code_base_docs.md'
