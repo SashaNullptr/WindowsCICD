@@ -8,6 +8,7 @@ nav:
   - Virtualization:
      - Hyper-V: 'virtualization/hyper_v.md'
   - Installers:
+     - InnoSetup: 'installers/installaware.md'
      - InnoSetup: 'installers/innosetup.md'
   - Stages:
      - Overview: 'stages/index.md'
